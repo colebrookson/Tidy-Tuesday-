@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562690137845.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F44204FF",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1562690137845,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "717477FB",
+        "caption" : "wwc_outcomes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wwc_outcomes&cache_key=717477FB",
+        "displayedObservations" : 568,
+        "environment" : "",
+        "object" : "wwc_outcomes",
+        "preview" : 0,
+        "totalObservations" : 568,
+        "variables" : 7
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
