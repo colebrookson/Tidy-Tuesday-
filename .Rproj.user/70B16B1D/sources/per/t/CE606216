@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562697172112.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CE606216",
+    "lastKnownWriteTime" : 32370120545140837,
+    "last_content_update" : 1562697172112,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CCDCDF06",
+        "caption" : "goals_for_against",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=goals_for_against&cache_key=CCDCDF06",
+        "displayedObservations" : 136,
+        "environment" : "",
+        "object" : "goals_for_against",
+        "preview" : 0,
+        "totalObservations" : 136,
+        "variables" : 4
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
