@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563896558529.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2935774713",
+    "id" : "1B352F74",
+    "lastKnownWriteTime" : 1559672851,
+    "last_content_update" : 1563897898423,
+    "path" : "~/GitHub/Tidy-Tuesday-/Ramen_Ratings(06-04-19).R",
+    "project_path" : "Ramen_Ratings(06-04-19).R",
+    "properties" : {
+        "cursorPosition" : "56,0",
+        "scrollLine" : "43"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
