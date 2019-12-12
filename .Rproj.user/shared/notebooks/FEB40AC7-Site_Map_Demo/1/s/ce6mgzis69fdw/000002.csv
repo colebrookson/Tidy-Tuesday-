@@ -1,0 +1,5 @@
+"0","#pull data from the internet"
+"0","us = getData(""GADM"",country=""USA"",level=1) #pull the data on just the US"
+"0","#keep only Florida"
+"0","states = c('Florida') "
+"0","us.states = us[us$NAME_1 %in% states,] #just keep Floida "

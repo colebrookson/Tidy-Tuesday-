@@ -1,0 +1,9 @@
+"0","ggplot()+"
+"0","    geom_polygon(data = us.states,aes(x=long,y=lat,group=group), colour = 'grey40', size = 0.01, "
+"0","                 fill = 'grey90')+ #just florida"
+"0","  coord_cartesian(xlim = c(-80.0,-81.1), ylim = c(24.85,25.75))+ #delineate the area I want to show"
+"0","    geom_point(data = sites, aes(x=Y,y=X, fill = FishDiv, shape = Region), size = 5) +#delineate the points, the fish diversity data, the region of sampling, and the point size"
+"0","  scale_fill_gradient('Number of Fish Species', low = 'violet', high = 'midnightblue')+ #customize gradient"
+"0","  scale_shape_manual(values = c(22,21,24))  #specify ponts that allow us to fill the middle"
+"2","Regions defined for each Polygons
+"

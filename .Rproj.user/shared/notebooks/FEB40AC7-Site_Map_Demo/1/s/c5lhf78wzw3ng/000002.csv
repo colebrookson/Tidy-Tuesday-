@@ -1,0 +1,3 @@
+"0","ggdraw()+ #from the cowplot package"
+"0","  draw_plot(sites_map) + "
+"0","  draw_plot(continent, x=0.102, y=0.62, width=0.38, height=0.35) "

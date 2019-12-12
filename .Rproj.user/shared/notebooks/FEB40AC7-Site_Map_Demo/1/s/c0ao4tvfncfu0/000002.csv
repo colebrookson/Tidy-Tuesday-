@@ -1,0 +1,6 @@
+"0","ggplot()+
+  geom_polygon(data = us,aes(x=long,y=lat,group=group), colour = 'grey40', #put in the data we downloade
+               size = 0.01, fill = 'grey90')
+"
+"2","Regions defined for each Polygons
+"

@@ -1,0 +1,10 @@
+"0","ggplot()+"
+"0","  geom_polygon(data = us,aes(x=long,y=lat,group=group), colour = 'grey40', #the other states"
+"0","               size = 0.01, fill = 'grey90')+"
+"0","  geom_polygon(data = us.states,aes(x=long,y=lat,group=group), colour = 'midnightblue', size = 0.01, "
+"0","               fill = 'grey70')+ #just florida"
+"0","  coord_cartesian(xlim = c(-93.9,-75.85), ylim = c(24.1,32.5)) #draw the limits of the map"
+"2","Regions defined for each Polygons
+"
+"2","Regions defined for each Polygons
+"

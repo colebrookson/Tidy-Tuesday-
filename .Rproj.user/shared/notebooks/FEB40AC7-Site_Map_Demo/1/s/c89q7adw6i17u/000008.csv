@@ -1,0 +1,7 @@
+"0","other_states = c('Florida', 'Louisiana', 'South Carolina', 'Alabama', 'Georgia', 'Mississippi') #call the states we want"
+"0","us = us[us$NAME_1 %in% other_states,] #keep from the whole USA data, only those states"
+"0","ggplot()+"
+"0","  geom_polygon(data = us,aes(x=long,y=lat,group=group), colour = 'grey40', #put in the data we downloade"
+"0","               size = 0.01, fill = 'grey90')"
+"2","Regions defined for each Polygons
+"

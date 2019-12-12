@@ -1,0 +1,12 @@
+"0","ggplot()+
+  geom_polygon(data = us,aes(x=long,y=lat,group=group), colour = 'grey40', #the other states
+               size = 0.01, fill = 'grey90')+
+  geom_polygon(data = us.states,aes(x=long,y=lat,group=group), colour = 'midnightblue', size = 0.01, 
+               fill = 'grey70')+ #just florida
+  coord_cartesian(xlim = c(-93.9,-75.85), ylim = c(24.1,32.5)) +#draw the limits of the map
+  fte_theme_map_small() #add the theme to the plot
+"
+"2","Regions defined for each Polygons
+"
+"2","Regions defined for each Polygons
+"

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574638723877.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2808053239",
+    "id" : "465A0A66",
+    "lastKnownWriteTime" : 1573230440,
+    "last_content_update" : 1573230440,
+    "path" : "C:/Users/coleb/Google Drive/SalmonWork/Complete_Analysis_And_Figures_Script.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "1036,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
